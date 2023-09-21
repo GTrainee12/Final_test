@@ -55,8 +55,11 @@
 Заполнить низкоуровневые таблицы именами(животных), командами которые они выполняют и датами рождения.
 
 ![tables](pets\image\Screenshot_9.jpg)
+
 ![tables](pets\image\Screenshot_10.jpg)
+
 ![tables](pets\image\Screenshot_11.jpg)
+
 ![tables](pets\image\Screenshot_12.jpg)
 
 Задача 10:
