@@ -54,39 +54,37 @@
 
 Заполнить низкоуровневые таблицы именами(животных), командами которые они выполняют и датами рождения.
 
-![tables](pets\image\Screenshot_9.jpg)
+![tables](pets/image/Screenshot_9.jpg)
+![tables](pets/image/Screenshot_10.jpg)
+![tables](pets/image/Screenshot_11.jpg)
 
-![tables](pets\image\Screenshot_10.jpg)
-
-![tables](pets\image\Screenshot_11.jpg)
-
-![tables](pets\image\Screenshot_12.jpg)
+![tables](pets/image/Screenshot_12.jpg)
 
 Задача 10:
 
 Удалить из таблицы верблюдов, т.к. верблюдов решили перевезти в другой питомник на зимовку.
 Объединить таблицы лошади, и ослы в одну таблицу.
 
-![tables](pets\image\Screenshot_13.jpg)
+![tables](pets/image/Screenshot_13.jpg)
 
 Задача 11:
 
 Создать новую таблицу “молодые животные” в которую попадут все животные старше 1 года, но младше 3 лет и в отдельном столбце с точностью до месяца подсчитать возраст животных в новой таблице
 
-![tables](pets\image\Screenshot_14.jpg)
+![tables](pets/image/Screenshot_14.jpg)
 
 Задача 12:
 
 Объединить все таблицы в одну, при этом сохраняя поля, указывающие на прошлую принадлежность к старым таблицам.
 
-![tables](pets\image\Screenshot_15.jpg)
-![tables](pets\image\Screenshot_7.jpg)
+![tables](pets/image/Screenshot_15.jpg)
+![tables](pets/image/Screenshot_7.jpg)
 
 
 Программная реализация:
 
 
-![program](pets\image\Screenshot_16.jpg)
-![program](pets\image\Screenshot_17.jpg)
-![program](pets\image\Screenshot_18.jpg)
-![program](pets\image\Screenshot_19.jpg)
+![program](pets/image/Screenshot_16.jpg)
+![program](pets/image/Screenshot_17.jpg)
+![program](pets/image/Screenshot_18.jpg)
+![program](pets/image/Screenshot_19.jpg)
